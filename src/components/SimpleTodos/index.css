@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.todo-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  width: 65%;
+  padding: 50px;
+}
+.heading {
+  color: #ff8542;
+  font-family: 'roboto';
+  font-weight: 600;
+  font-size: 30px;
+  align-self: center;
+}

@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.item-container {
+  display: flex;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  justify-content: space-between;
+}
+.title {
+  color: #000;
+  font-family: 'roboto';
+  font-size: 15px;
+  font-weight: 400;
+}
+.button {
+  color: #ff0b37;
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 13px;
+  background-color: #fff;
+  border: 1px solid #ff0b37;
+  width: 95px;
+  height: 33px;
+  border-radius: 5px;
+  margin-left: 20px;
+  cursor: pointer;
+}
